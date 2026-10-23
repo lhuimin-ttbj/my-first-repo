@@ -1,1 +1,2 @@
-# my-first-repo
+# hi my-first-repo
+记录学习的进程
